@@ -1,0 +1,21 @@
+Guest #,First Name,Last Name,Same Table,Same Table,Not Same Table
+1,Faith,Kundert,2,3,5
+2,Adrien,Kundert,1,4,
+3,Brittne,Giacubbo,4,2,7
+4,Eugen,Giacubbo,3,1,
+5,Coletta,Klimczak,6,7,9
+6,Gray,Klimczak,5,8,
+7,Frannie,Rock,8,6,11
+8,Holly,Rock,7,5,
+9,Winna,Packington,10,11,13
+10,Tabb,Packington,9,12,
+11,Luciana,Dryden,12,10,15
+12,Joaquin,Dryden,11,9,
+13,Helaine,Mathivet,14,15,17
+14,Shamus,Mathivet,13,16,
+15,Jyoti,Pirot,16,14,19
+16,Lock,Pirot,15,13,
+17,Clare,Kennard,18,19,1
+18,Cello,Kennard,17,20,
+19,Devonna,Shelsher,20,18,3
+20,Jon,Shelsher,19,17,
