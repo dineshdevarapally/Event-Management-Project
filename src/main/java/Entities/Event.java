@@ -18,6 +18,7 @@ import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 import javax.validation.constraints.NotNull;
 
+//event entity
 @Entity
 @NamedQueries({
 	@NamedQuery(query = "SELECT e" + " FROM Event e ", name = "get all events"),
