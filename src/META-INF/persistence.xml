@@ -14,3 +14,5 @@
       	</properties>
 	</persistence-unit>
 </persistence>
+
+//data is stored in the brower
