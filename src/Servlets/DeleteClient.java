@@ -54,3 +54,5 @@ public class DeleteClient extends HttpServlet {
 		return false;
 	}
 }
+
+// lies are lies
