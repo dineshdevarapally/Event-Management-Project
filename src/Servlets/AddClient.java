@@ -57,3 +57,5 @@ public class AddClient extends HttpServlet {
 		return false;
 	}
 }
+
+// be true, be wise, be happy
